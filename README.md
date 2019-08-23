@@ -1,5 +1,5 @@
 # Graphql Query
-[![Graphql](https://graphql.org/img/logo.svg)](https://graphql.org/)
+[![Graphql](https://avatars0.githubusercontent.com/u/12972006?s=200&v=4)](https://graphql.org/)
 
 ## Accessing The GraphQL API
 ### Query
